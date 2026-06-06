@@ -72,11 +72,6 @@ FlightBookingApp
 
 # ⚙️ Installation & Setup
 
-Clone the repository
-
-```
-git clone https://github.com/vasanth1931v/flight-booking-app.git
-```
 
 ---
 
